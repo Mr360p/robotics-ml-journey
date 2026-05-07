@@ -24,7 +24,7 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Data and models (don't commit these — too big)
+# Data and models
 data/
 *.pt
 *.pth

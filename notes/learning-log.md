@@ -6,7 +6,7 @@ Format: Date — what I worked on — what I learned — what's confusing / open
 
 ---
 
-## Day 1 — $(date +'%Y-%m-%d')
+## Day 1 — 2026-05-07
 
 **Worked on:** Initial workstation setup
 **Learned:** uv package management, PyTorch CPU install, GitHub SSH setup
